@@ -1,1 +1,2 @@
-# How-to-find-the-current-view-when-the-Scheduler-is-rendered-with-same-views-but-with-different-inter
+EJ2 JavaScript
+This sample demonstrate the way to show total events duration in each resource header.
